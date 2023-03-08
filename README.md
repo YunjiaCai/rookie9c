@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rookie9c
 - 👀 I’m currently a graduate student
-- 🌱 I’m currently learning MSA
+- 🌱 I’m currently learning MABSA
 - 💞️ I’m looking to collaborate on ...
 - maybe we can discuss together
 - 📫 1325671102@qq.com
